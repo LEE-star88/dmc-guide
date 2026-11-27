@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: winningedu-dmc-guide
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
